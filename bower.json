@@ -1,0 +1,30 @@
+{
+  "name": "bower_components",
+  "version": "0.0.1",
+  "homepage": "https://github.com/camelCaseD/bower_components",
+  "authors": [
+    "Brandon Borders <brandon@camelcased.com>"
+  ],
+  "description": "bower_components for my github pages",
+  "license": "MIT",
+  "main": "",
+  "keywords": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "polymer/polymer#~1.0.0",
+    "iron-collapse": "PolymerElements/iron-collapse#^1.0.0",
+    "iron-icon": "PolymerElements/iron-icon#^1.0.0",
+    "iron-icons": "PolymerElements/iron-icons#^1.0.0",
+    "font-roboto": "PolymerElements/font-roboto#^1.0.0",
+    "iron-flex-layout": "PolymerElements/iron-flex-layout#~1.0.2"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0"
+  }
+}
